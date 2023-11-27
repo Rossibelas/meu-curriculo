@@ -10,4 +10,6 @@
  ## Curso livres
   - Excel, Senac Americana [24h]
   - Excel Avançado, Senac Americana [39h]
-  
+  - Corel draw
+  - photoshop
+  - Programação JavaScript basico
