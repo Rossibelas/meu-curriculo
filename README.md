@@ -21,8 +21,3 @@ Photoshop
   - photoshop
   - Programação JavaScript basico
 
-  ### Tecnogias
-
-  ### Conhecimentos Extras
-
-  ### Projetos
